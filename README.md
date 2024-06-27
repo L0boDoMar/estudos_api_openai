@@ -1,13 +1,6 @@
 Claro, aqui está um modelo de README.md que você pode utilizar para subir esse curso no seu GitHub:
-                 
-                    
-                        markdown
-                        
-                            Copiar código
-                        
-                    
-                    
-                        # Curso: GPT e Python: criando ferramentas com a API
+                                     
+# Curso: GPT e Python: criando ferramentas com a API
 
 Este repositório contém o código e os materiais do curso "GPT e Python: criando ferramentas com a API" da Alura.
 
@@ -42,26 +35,12 @@ Para acompanhar este curso, você precisará ter conhecimentos básicos em Pytho
 
 1. Clone este repositório em sua máquina local.
 2. Crie um ambiente virtual e instale as dependências do projeto:
-                    
-                
+                                    
            python -m venv venv   source venv/bin/activate   pip install -r requirements.txt
-                 
+
+3. Crie um arquivo `.env` na raiz do projeto e adicione sua chave de API da OpenAI:
                     
-                        bash
-                        
-                            Copiar código
-                        
-                        3. Crie um arquivo `.env` na raiz do projeto e adicione sua chave de API da OpenAI:
-                    
-                
            OPENAI_API_KEY=sua_chave_api_aqui
-                 
-                    
-                        bash
-                        
-                            Copiar código
-                        
-                    
-                    
-                        4. Execute os scripts Python em cada uma das aulas para acompanhar o conteúdo do curso.
+                   
+4. Execute os scripts Python em cada uma das aulas para acompanhar o conteúdo do curso.
 
