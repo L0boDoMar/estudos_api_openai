@@ -15,18 +15,6 @@ O curso "GPT e Python: criando ferramentas com a API" tem como objetivo ensinar 
 - Geração de relatórios e pareceres a partir de dados estruturados
 - Integração da API da OpenAI com aplicações Python
 
-## Estrutura do Repositório
-
-O repositório está organizado da seguinte forma:
-
-- `aula 1/`: Contém os materiais e o código da primeira aula do curso.
-- `aula 2/`: Contém os materiais e o código da segunda aula do curso.
-- `aula 3/`: Contém os materiais e o código da terceira aula do curso.
-- `aula 4/`: Contém os materiais e o código da quarta aula do curso.
-- `aula 5/`: Contém os materiais e o código da quinta aula do curso.
-- `dados/`: Contém os arquivos de dados utilizados no curso.
-- `README.md`: Este arquivo, com informações sobre o repositório.
-
 ## Pré-requisitos
 
 Para acompanhar este curso, você precisará ter conhecimentos básicos em Python e familiaridade com a linha de comando. Além disso, é necessário ter uma conta na OpenAI e obter uma chave de API.
